@@ -1,0 +1,12 @@
+IF aaa 55
+IF bbb 60
+IF ccc 55
+IF ddd 75
+IF eee -> 80
+IF fff 75
+IF ggg 75
+IF hhh -> 80
+IF iii 75
+IF jjj 75
+IF kkk -> 80
+IF jjj 75
